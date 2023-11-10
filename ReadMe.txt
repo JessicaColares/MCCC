@@ -1,3 +1,0 @@
-	Foi removido o tipo B (benignos, são os aplicativos comuns) do dataset. Sendo analizado somente o tipo S (que são os malwares). Os números 1 representam permissões usadas, os 0 representam permissões não utilizadas.
-	Somou-se o número de Malwares que utilizam cada permissão. E foi adicionado uma formatação condicional para determinar os 20 malwares com maior número de permissões em dispositivos móveis.
-	Por fim gerou-se o gráfico para melhor vizualização dos dados obtidos.
